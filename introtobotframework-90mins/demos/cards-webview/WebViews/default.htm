@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Your delivery</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi">
+    <style type="text/css">
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+    <script type="text/javascript">
+        var map;
+        var YourBingMapsKey = 'AhdpnABQwrGzOJvoX-cH0eGsHMERG7yvl9dvPQSvCEVZB0qIy4Yy32L8fP2pobpB';
+
+        function GetMap() {
+            map = new Microsoft.Maps.Map('#myMap',
+            {
+                credentials: YourBingMapsKey,
+                zoom: 13
+            });
+
+            var center = map.getCenter();
+
+            var base64Image =
+                'data:image/png;base64,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';
+
+            //Create custom Pushpin using a base64 image string.
+            var pin = new Microsoft.Maps.Pushpin(center,
+            {
+                //icon: base64Image,
+                anchor: new Microsoft.Maps.Point(12, 28)
+            });
+
+            //Add the pushpin to the map
+            map.entities.push(pin);
+        }
+    </script>
+    <script type="text/javascript" src="https://www.bing.com/api/maps/mapcontrol?callback=GetMap" async defer></script>
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+</head>
+<body>
+
+<div id="myMap" style="height: 200px; position: relative; width: 360px;"></div>
+<div id="thing" class="ms-font" style="height: 200px; padding: 5px; position: relative;">
+    <span class="ms-font-xxl ms-fontColor-themePrimary">Your delivery is 5 mins away</span>
+</div>
+</body>
+</html>

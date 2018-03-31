@@ -1,0 +1,83 @@
+C:\caap\caap\luis.ai\bin\Bot Application1.dll.config
+C:\caap\caap\luis.ai\bin\Bot Application1.dll
+C:\caap\caap\luis.ai\bin\Bot Application1.pdb
+C:\caap\caap\luis.ai\bin\Autofac.dll
+C:\caap\caap\luis.ai\bin\Chronic.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Builder.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Connector.dll
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\caap\caap\luis.ai\bin\Microsoft.Rest.ClientRuntime.dll
+C:\caap\caap\luis.ai\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\caap\caap\luis.ai\bin\Newtonsoft.Json.dll
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\caap\caap\luis.ai\bin\System.Net.Http.Formatting.dll
+C:\caap\caap\luis.ai\bin\System.Web.Http.dll
+C:\caap\caap\luis.ai\bin\System.Web.Http.WebHost.dll
+C:\caap\caap\luis.ai\bin\Autofac.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Builder.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Bot.Connector.xml
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\caap\caap\luis.ai\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\caap\caap\luis.ai\bin\Microsoft.Rest.ClientRuntime.xml
+C:\caap\caap\luis.ai\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\caap\caap\luis.ai\bin\Newtonsoft.Json.xml
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\caap\caap\luis.ai\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\caap\caap\luis.ai\bin\System.Net.Http.Formatting.xml
+C:\caap\caap\luis.ai\bin\System.Web.Http.xml
+C:\caap\caap\luis.ai\bin\System.Web.Http.WebHost.xml
+C:\caap\caap\luis.ai\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\caap\caap\luis.ai\obj\Release\LuisDemo.csprojResolveAssemblyReference.cache
+C:\caap\caap\luis.ai\obj\Release\Bot Application1.dll
+C:\caap\caap\luis.ai\obj\Release\Bot Application1.pdb
+C:\demos\introtobotframework\luis-homebot\bin\Bot Application1.dll.config
+C:\demos\introtobotframework\luis-homebot\bin\Bot Application1.dll
+C:\demos\introtobotframework\luis-homebot\bin\Bot Application1.pdb
+C:\demos\introtobotframework\luis-homebot\bin\Autofac.dll
+C:\demos\introtobotframework\luis-homebot\bin\Chronic.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Builder.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Connector.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\demos\introtobotframework\luis-homebot\bin\Newtonsoft.Json.dll
+C:\demos\introtobotframework\luis-homebot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\demos\introtobotframework\luis-homebot\bin\System.Net.Http.Formatting.dll
+C:\demos\introtobotframework\luis-homebot\bin\System.Web.Http.dll
+C:\demos\introtobotframework\luis-homebot\bin\System.Web.Http.WebHost.dll
+C:\demos\introtobotframework\luis-homebot\bin\Autofac.xml
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Builder.xml
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.Bot.Connector.xml
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\demos\introtobotframework\luis-homebot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\demos\introtobotframework\luis-homebot\bin\Newtonsoft.Json.xml
+C:\demos\introtobotframework\luis-homebot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\demos\introtobotframework\luis-homebot\bin\System.Net.Http.Formatting.xml
+C:\demos\introtobotframework\luis-homebot\bin\System.Web.Http.xml
+C:\demos\introtobotframework\luis-homebot\bin\System.Web.Http.WebHost.xml
+C:\demos\introtobotframework\luis-homebot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\demos\introtobotframework\luis-homebot\obj\Release\LuisDemo.csprojResolveAssemblyReference.cache
+C:\demos\introtobotframework\luis-homebot\obj\Release\LuisDemo.csproj.CoreCompileInputs.cache
+C:\demos\introtobotframework\luis-homebot\obj\Release\Bot Application1.dll
+C:\demos\introtobotframework\luis-homebot\obj\Release\Bot Application1.pdb
