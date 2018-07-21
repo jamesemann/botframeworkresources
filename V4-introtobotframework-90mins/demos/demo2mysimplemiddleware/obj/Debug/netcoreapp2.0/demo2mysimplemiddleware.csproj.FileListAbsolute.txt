@@ -1,0 +1,11 @@
+C:\tutorial\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.deps.json
+C:\tutorial\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.runtimeconfig.json
+C:\tutorial\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.runtimeconfig.dev.json
+C:\tutorial\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.dll
+C:\tutorial\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.pdb
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.csproj.CoreCompileInputs.cache
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.AssemblyInfoInputs.cache
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.AssemblyInfo.cs
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.dll
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.pdb
+C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.csprojAssemblyReference.cache

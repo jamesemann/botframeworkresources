@@ -1,0 +1,11 @@
+C:\tutorial\demo2qnamakermiddleware\bin\Debug\netcoreapp2.0\demo2qnamakermiddleware.deps.json
+C:\tutorial\demo2qnamakermiddleware\bin\Debug\netcoreapp2.0\demo2qnamakermiddleware.runtimeconfig.json
+C:\tutorial\demo2qnamakermiddleware\bin\Debug\netcoreapp2.0\demo2qnamakermiddleware.runtimeconfig.dev.json
+C:\tutorial\demo2qnamakermiddleware\bin\Debug\netcoreapp2.0\demo2qnamakermiddleware.dll
+C:\tutorial\demo2qnamakermiddleware\bin\Debug\netcoreapp2.0\demo2qnamakermiddleware.pdb
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.csprojAssemblyReference.cache
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.csproj.CoreCompileInputs.cache
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.AssemblyInfoInputs.cache
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.AssemblyInfo.cs
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.dll
+C:\tutorial\demo2qnamakermiddleware\obj\Debug\netcoreapp2.0\demo2qnamakermiddleware.pdb
