@@ -13101,11 +13101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tutorial\\demo6cards\\demo6cards.csproj",
+      "projectUniqueName": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo6cards\\demo6cards.csproj",
       "projectName": "demo6cards",
-      "projectPath": "C:\\tutorial\\demo6cards\\demo6cards.csproj",
+      "projectPath": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo6cards\\demo6cards.csproj",
       "packagesPath": "C:\\Users\\demo\\.nuget\\packages\\",
-      "outputPath": "C:\\tutorial\\demo6cards\\obj\\",
+      "outputPath": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo6cards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
