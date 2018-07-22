@@ -9,3 +9,14 @@ C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddlew
 C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.dll
 C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.pdb
 C:\tutorial\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.csprojAssemblyReference.cache
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.deps.json
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.runtimeconfig.json
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.runtimeconfig.dev.json
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.dll
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\bin\Debug\netcoreapp2.0\demo2mysimplemiddleware.pdb
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.csprojAssemblyReference.cache
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.csproj.CoreCompileInputs.cache
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.AssemblyInfoInputs.cache
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.AssemblyInfo.cs
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.dll
+C:\projects\botframeworkresources\V4-introtobotframework-90mins\demos\demo2mysimplemiddleware\obj\Debug\netcoreapp2.0\demo2mysimplemiddleware.pdb

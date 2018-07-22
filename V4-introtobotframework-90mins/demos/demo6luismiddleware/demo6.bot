@@ -1,0 +1,15 @@
+{
+    "name": "demo6",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "ab452820-8dea-11e8-83d0-5baf32b8d0af",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44334/api/messages",
+            "name": "https://localhost:44334/api/messages"
+        }
+    ]
+}

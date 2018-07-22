@@ -12879,11 +12879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tutorial\\demo2mysimplemiddleware\\demo2mysimplemiddleware.csproj",
+      "projectUniqueName": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo2mysimplemiddleware\\demo2mysimplemiddleware.csproj",
       "projectName": "demo2mysimplemiddleware",
-      "projectPath": "C:\\tutorial\\demo2mysimplemiddleware\\demo2mysimplemiddleware.csproj",
+      "projectPath": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo2mysimplemiddleware\\demo2mysimplemiddleware.csproj",
       "packagesPath": "C:\\Users\\demo\\.nuget\\packages\\",
-      "outputPath": "C:\\tutorial\\demo2mysimplemiddleware\\obj\\",
+      "outputPath": "C:\\projects\\botframeworkresources\\V4-introtobotframework-90mins\\demos\\demo2mysimplemiddleware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
