@@ -10,6 +10,14 @@
             "appPassword": "",
             "endpoint": "https://localhost:44376/api/messages",
             "name": "https://localhost:44376/api/messages"
+        },
+        {
+            "appId": "",
+            "id": "41d090b0-8dfd-11e8-9697-7bfe12460b9c",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44386/api/messages",
+            "name": "dialogs"
         }
     ]
 }
