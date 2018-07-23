@@ -11,11 +11,14 @@ namespace demo2mysimplemiddleware.Middleware
     {
         public async Task OnTurn(ITurnContext context, MiddlewareSet.NextDelegate next)
         {
-            await context.SendActivity($"[SimpleMiddleware1] {context.Activity.Type}/OnTurn/Before");
+            if (context.Activity.Type == ActivityTypes.Message)
+            {
+                await context.SendActivity($"[SimpleMiddleware1] {context.Activity.Type}/OnTurn/Before");
 
-            await next();
+                await next();
 
-            await context.SendActivity($"[SimpleMiddleware1] {context.Activity.Type}/OnTurn/After");
+                await context.SendActivity($"[SimpleMiddleware1] {context.Activity.Type}/OnTurn/After");
+            }
         }
     }
 }
