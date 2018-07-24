@@ -1,0 +1,15 @@
+{
+    "name": "sdds",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "e317b8e0-8f92-11e8-91c8-6f1c5d3605b5",
+            "name": "https://localhost:49124/api/messages",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://localhost:49124/api/messages"
+        }
+    ]
+}
