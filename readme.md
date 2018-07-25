@@ -28,3 +28,16 @@ The way in which customers expect to be able to interact with companies is chang
 We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.
 
 Come along and become a chatbot builder for your organisation today!
+
+
+### [Introduction to Microsoft Bot Framework V4 (PREVIEW): 90 minutes](https://github.com/jamesemann/botframeworkresources/tree/master/v4-introtobotframework-90mins)
+
+This is a 90 minute session covering Microsoft Bot Framework and Cognitive Services.
+
+#### Synopsis
+
+The way in which customers expect to be able to interact with companies is changing. We'll look at this change and how you can take advantage of it by creating chatbots using the Microsoft Bot Framework.
+
+We'll cover the basics, including what tools you can use and where to go in order to get started. Then we'll see how we can use Microsoft Cognitive Services to sprinkle AI magic on your chatbots and turn them from simple command-line pretenders to useful tools that customers will love.
+
+Come along and become a chatbot builder for your organisation today!
