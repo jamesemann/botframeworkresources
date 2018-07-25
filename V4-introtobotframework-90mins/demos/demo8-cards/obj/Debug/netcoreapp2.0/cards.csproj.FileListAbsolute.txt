@@ -1,0 +1,11 @@
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\bin\Debug\netcoreapp2.0\cards.deps.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.dev.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\bin\Debug\netcoreapp2.0\cards.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\bin\Debug\netcoreapp2.0\cards.pdb
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.csprojAssemblyReference.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.csproj.CoreCompileInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfoInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfo.cs
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo8-cards\obj\Debug\netcoreapp2.0\cards.pdb

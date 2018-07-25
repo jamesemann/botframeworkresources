@@ -1,0 +1,63 @@
+{
+    "name": "demo2",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "11448640-8de9-11e8-83d0-5baf32b8d0af",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44328/api/messages",
+            "name": "demo2-passthroughmiddleware"
+        },
+        {
+            "appId": "",
+            "id": "5137ee40-9055-11e8-800f-6be91b48e6ae",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44386/api/messages",
+            "name": "demo3-dialogs"
+        },
+        {
+            "appId": "",
+            "id": "8c936550-9055-11e8-b5d3-39dcd538b8cf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44396/api/messages",
+            "name": "demo1-myfirstbot"
+        },
+        {
+            "appId": "",
+            "id": "ae8b6130-9055-11e8-b5d3-39dcd538b8cf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44376/api/messages",
+            "name": "demo5-qnamakermiddleware"
+        },
+        {
+            "appId": "",
+            "id": "e9c14ee0-9055-11e8-b5d3-39dcd538b8cf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44334/api/messages",
+            "name": "demo7-luismiddleware"
+        },
+        {
+            "appId": "",
+            "id": "03b152a0-9056-11e8-b5d3-39dcd538b8cf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44345/api/messages",
+            "name": "demo8-card"
+        },
+        {
+            "appId": "",
+            "id": "5c05eec0-9056-11e8-b5d3-39dcd538b8cf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "https://localhost:44376/api/messages",
+            "name": "demo9-proactive"
+        }
+    ]
+}

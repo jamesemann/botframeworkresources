@@ -1,0 +1,11 @@
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\bin\Debug\netcoreapp2.0\qnamakermiddleware.deps.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\bin\Debug\netcoreapp2.0\qnamakermiddleware.runtimeconfig.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\bin\Debug\netcoreapp2.0\qnamakermiddleware.runtimeconfig.dev.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\bin\Debug\netcoreapp2.0\qnamakermiddleware.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\bin\Debug\netcoreapp2.0\qnamakermiddleware.pdb
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.csprojAssemblyReference.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.csproj.CoreCompileInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.AssemblyInfoInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.AssemblyInfo.cs
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo5-qnamakermiddleware\obj\Debug\netcoreapp2.0\qnamakermiddleware.pdb

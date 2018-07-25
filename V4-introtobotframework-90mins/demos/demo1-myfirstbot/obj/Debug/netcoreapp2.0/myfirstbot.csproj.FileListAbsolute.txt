@@ -1,0 +1,11 @@
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\bin\Debug\netcoreapp2.0\myfirstbot.deps.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\bin\Debug\netcoreapp2.0\myfirstbot.runtimeconfig.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\bin\Debug\netcoreapp2.0\myfirstbot.runtimeconfig.dev.json
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\bin\Debug\netcoreapp2.0\myfirstbot.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\bin\Debug\netcoreapp2.0\myfirstbot.pdb
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.csprojAssemblyReference.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.csproj.CoreCompileInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.AssemblyInfoInputs.cache
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.AssemblyInfo.cs
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.dll
+C:\botframeworkresources\V4-introtobotframework-90mins\demos\demo1-myfirstbot\obj\Debug\netcoreapp2.0\myfirstbot.pdb
